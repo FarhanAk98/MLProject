@@ -1,0 +1,11 @@
+[ 2026-07-22 15:27:43,183 ] 23 root - INFO - Entered data ingestion method
+[ 2026-07-22 15:27:43,187 ] 26 root - INFO - Read dataset
+[ 2026-07-22 15:27:43,192 ] 32 root - INFO - Train test split initiated
+[ 2026-07-22 15:27:43,205 ] 38 root - INFO - Ingestion of the data is completed
+[ 2026-07-22 15:27:43,239 ] 71 root - INFO - Read train and test data
+[ 2026-07-22 15:27:43,240 ] 73 root - INFO - Obtaining preprocessing object
+[ 2026-07-22 15:27:43,240 ] 51 root - INFO - Numerical columns standard scaling completed
+[ 2026-07-22 15:27:43,240 ] 52 root - INFO - Categorical columns encoding completed
+[ 2026-07-22 15:27:43,292 ] 96 root - INFO - Saved preprocessing object
+[ 2026-07-22 15:27:43,295 ] 32 root - INFO - Splitting training test input data
+[ 2026-07-22 15:27:47,333 ] 66 root - INFO - Best model found on both training and testing

@@ -1,0 +1,8 @@
+[ 2026-07-22 02:43:46,370 ] 22 root - INFO - Entered data ingestion method
+[ 2026-07-22 02:43:46,375 ] 25 root - INFO - Read dataset
+[ 2026-07-22 02:43:46,380 ] 31 root - INFO - Train test split initiated
+[ 2026-07-22 02:43:46,387 ] 37 root - INFO - Ingestion of the data is completed
+[ 2026-07-22 02:43:46,408 ] 71 root - INFO - Read train and test data
+[ 2026-07-22 02:43:46,408 ] 73 root - INFO - Obtaining preprocessing object
+[ 2026-07-22 02:43:46,409 ] 51 root - INFO - Numerical columns standard scaling completed
+[ 2026-07-22 02:43:46,409 ] 52 root - INFO - Categorical columns encoding completed
